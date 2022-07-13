@@ -1,0 +1,28 @@
+{
+    "Items": [
+        {
+            "enemyType": "Default",
+            "enemySpawnWaiting": 1,
+            "enemyMaxCount": 20,
+            "enemyCount": 0,
+            "enemySpawnTime": 5,
+            "enemyTimeCount": 0
+        },
+        {
+            "enemyType": "SpeedUp",
+            "enemySpawnWaiting": 10,
+            "enemyMaxCount": 10,
+            "enemyCount": 0,
+            "enemySpawnTime": 8,
+            "enemyTimeCount": 0
+        },
+        {
+            "enemyType": "Heavy",
+            "enemySpawnWaiting": 20,
+            "enemyMaxCount": 2,
+            "enemyCount": 0,
+            "enemySpawnTime": 15,
+            "enemyTimeCount": 0
+        }
+    ]
+}

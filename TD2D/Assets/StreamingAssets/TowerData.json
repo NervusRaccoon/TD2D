@@ -1,0 +1,25 @@
+{
+    "Items": [
+        {
+            "towerType": "Yoru",
+            "towerCost": 10,
+            "towerDamage": 2,
+            "towerCooldown": 1,
+            "towerRange": 1
+        },
+        {
+            "towerType": "Mihawk",
+            "towerCost": 20,
+            "towerDamage": 5,
+            "towerCooldown": 3,
+            "towerRange": 3
+        },
+        {
+            "towerType": "Perona",
+            "towerCost": 20,
+            "towerDamage": 1,
+            "towerCooldown": 5,
+            "towerRange": 7
+        }        
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "Items": [
+        {
+            "id": 0,
+            "questText": "Задание: Присвоить объекту новую позицию",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 1,
+            "questText": "Задание: ...",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 2,
+            "questText": "Задание: Присвоить объекту новую позицию",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 3,
+            "questText": "Задание: Присвоить объекту новую позицию",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 4,
+            "questText": "Задание: Присвоить объекту новую позицию",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 5,
+            "questText": "Задание: Присвоить объекту новую позицию",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 6,
+            "questText": "Задание: ...",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 7,
+            "questText": "Задание: ...",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 8,
+            "questText": "Задание: ...",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 9,
+            "questText": "Задание: ...",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 10,
+            "questText": "Задание: ...",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 11,
+            "questText": "Задание: ...",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 12,
+            "questText": "Задание: ...",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 13,
+            "questText": "Задание: ...",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        },
+        {
+            "id": 14,
+            "questText": "Задание: ...",
+            "helpText": "Помощь ...",
+            "defaultCode": "private Tile tileGO;\nTile newTile = Instantiate(tileGO, transform.position, Quaternion.identity);\n\n",
+            "correctCode": "newTile.transform.position = new Vector3(0,0,0);",
+            "practiceSprite": ""
+        }
+    ]
+}

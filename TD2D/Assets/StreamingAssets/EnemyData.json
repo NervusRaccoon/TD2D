@@ -1,0 +1,22 @@
+{
+    "Items": [
+        {
+            "enemyType": "Default",
+            "enemyHP": 10,
+            "enemySpeed": 0.5,
+            "enemyGold": 2
+        },
+        {
+            "enemyType": "SpeedUp",
+            "enemyHP": 5,
+            "enemySpeed": 1,
+            "enemyGold": 3
+        },
+        {
+            "enemyType": "Heavy",
+            "enemyHP": 50,
+            "enemySpeed": 0.1,
+            "enemyGold": 10
+        }
+    ]
+}
